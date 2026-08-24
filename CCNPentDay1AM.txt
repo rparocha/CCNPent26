@@ -146,9 +146,9 @@ vlan 10
 vlan 50
    name IPCCTVLAN
 vlan 69
-   name nameMO
+   name REGGIE
 vlan 70
-    name FAVEcolor
+    name VIVAMAX
 vlan 71
     name HR-fu
 vlan 100
